@@ -14,7 +14,7 @@ import { toast } from "sonner";
 const examples = [
   "What is the Difference between Inflation and Unemployment?.",
   "Deeply Summarize the play A Doll's House.",
-  "What are the Top 10 Crypto Stories Today?",
+  "I'm Intelligent-AI created by M Hassan Ramzan Haral",
 ];
 
 export default function Chat() {
@@ -100,21 +100,21 @@ export default function Chat() {
         <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <h1 className="text-lg font-semibold text-black">
-              Hi User👋! I Am Gifted ChatGPT!
+              Hi User👋! I Am Intelligent-AI!
             </h1>
             <p className="text-gray-500">
               I Am Programmed by{" "}
               <a
-                href="https://wa.me/message/NHCZC5DSOEUXB1"
+                href="https://wa.link/4azvnp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-              Gifted Tech
+              M Hassan Ramzan Haral
               </a>{" "}
               and I use{" "}
               <a
-                href="https://wa.me/message/NHCZC5DSOEUXB1"
+                href="https://wa.link/4azvnp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
@@ -123,7 +123,7 @@ export default function Chat() {
               </a>{" "}
               and{" "}
               <a
-                href="https://wa.me/message/NHCZC5DSOEUXB1"
+                href="https://wa.link/4azvnp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
@@ -132,7 +132,7 @@ export default function Chat() {
               </a>{" "}
               to interact with Human Beings using{" "}
               <a
-                href="https://wa.me/message/NHCZC5DSOEUXB1"
+                href="https://wa.link/4azvnp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
@@ -170,7 +170,7 @@ export default function Chat() {
             required
             rows={1}
             autoFocus
-            placeholder="Send a Query to Gifted ChatGPT"
+            placeholder="Send a Query to Intelligent-AI"
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={(e) => {
@@ -206,7 +206,7 @@ export default function Chat() {
         <p className="text-center text-xs text-gray-400">
           Built With{" "}
           <a
-            href="https://giftedgpt.vercel.app"
+            href="https://intelligent-ai.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
@@ -215,7 +215,7 @@ export default function Chat() {
           </a>{" "}
           and{" "}
           <a
-            href="https://giftedgpt.vercel.app"
+            href="https://intelligent-ai.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
@@ -224,16 +224,16 @@ export default function Chat() {
           </a>
           .{" "}
           <a
-            href="https://wa.me/message/NHCZC5DSOEUXB1"
+            href="https://wa.link/4azvnp"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
           >
-            By Gifted Tech
+            By M Hassan Ramzan Haral
           </a>{" "}
           so{" "}
           <a
-            href="https://giftedgpt.vercel.app"
+            href="https://intelligent-ai.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
