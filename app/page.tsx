@@ -100,7 +100,7 @@ export default function Chat() {
         <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <h1 className="text-lg font-semibold text-black">
-              Hi User👋! I Am Intelligent-AI by M Hassan Ramzan Haral!
+              Hi User👋! I Am Intelligent-AI developed by M Hassan Ramzan Haral!
             </h1>
             <p className="text-gray-500">
               I Am Programmed by{" "}
@@ -229,7 +229,7 @@ export default function Chat() {
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
           >
-            By M Hassan Ramzan Haral
+            I'm developed By M Hassan Ramzan Haral
           </a>{" "}
           so{" "}
           <a
