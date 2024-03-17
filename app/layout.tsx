@@ -7,9 +7,9 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Gifted ChatGPT – Chat With GPT For Free Without Signup/Login",
+  title: "Intelligen-AI – Chat With GPT For Free Without Signup/Login",
   description:
-    "Chat with Gpt Using Human Natural Language. Built with OpenAI APi Functions and Vercel AI SDK.",
+    "Chat with Gpt Using Human Natural Language. Built with OpenAI APi Functions and Vercel AI SDK by M Hassan Ramzan Haral.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
