@@ -14,7 +14,7 @@ import { toast } from "sonner";
 const examples = [
   "What is the Difference between Inflation and Unemployment?.",
   "Deeply Summarize the play A Doll's House.",
-  "I'm Intelligent-AI created by M Hassan Ramzan Haral",
+  "write long essay on Pakistan political situation",
 ];
 
 export default function Chat() {
@@ -100,7 +100,7 @@ export default function Chat() {
         <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <h1 className="text-lg font-semibold text-black">
-              Hi User👋! I Am Intelligent-AI!
+              Hi User👋! I Am Intelligent-AI by M Hassan Ramzan Haral!
             </h1>
             <p className="text-gray-500">
               I Am Programmed by{" "}
